@@ -1,0 +1,64 @@
+@char MC
+My head hurts. 
+I worked too much last night. Well, it was already morning when I woke up. I think.
+@back WindowView.Saturate
+Sometimes, I forget my name. What was it?
+@input name summary:"Choose your name." value:{T_PredefinedName}
+@stop
+
+@back CyberApartment.Crossfade
+
+@set nameSet=true
+MC: It's Saturday, and it's getting late already. Just how long did I speep?
+Yog: You're finally awake. You slept for quite a while.
+@char Yog.Neutral
+The familiar, pleasant feminine voice is buzzing in my head. 
+I feel like I need to explain something. Yog is my friend. I don't know how exactly that works...
+...but when I found an old book in a public library, and read it, the voice spoke to me.
+Perhaps nobody found it before me because nobody uses paper anymore. That library was abandoned long time ago.
+Maybe, I'm just going insane. But I can see those weird golden bubbles around when I'm talking to her. And also, she doesn't always follow me.
+MC: Good morning. Yes, sorry, I was sleeping.
+Yog: I have a Quest for you. 
+MC: What are you, some kind of NPC?
+Yog: What is an NPC?
+MC: Nevermind. You never asked me to do anything before. What do you need? 
+Yog: There is one item... of great value for me. I want you to get it. It's really, really important. 
+MC: Wow. What is it?
+I'm starting to question if I really see things.
+Yog: It doesn't matter, darling! What matters that it is very precious for me. If you do this... I might show you something. 
+MC: Wow. What are you going to show me?
+@char Yog.Flushed
+Yog: That's a secret <3
+MC: You're exeptionally cryptic today. 
+@char Yog.Neutral
+Yog: You always call me that. 
+MC: Come on, you did't even tell me what you are. Nevermind. Where is it?
+Yog: I think there is a place called "The Bottom" or something. It's in the Downtown.
+MC: Oh, "The Bottom"? That's where Emily works.
+Yog: <size=60%>Oh, that bitch.
+MC: What?
+Yog: Nevermind, darling, I want you to go there, and take it. Someone has it already, but it seems they don't need it much. I mean, someone has the means of obtaining it.  
+MC: What do you mean?
+@char Yog.Angry
+Yog: Just go there and do something!
+MC: Ugh.
+
+
+I guess I have to go now.   
+@hide Yog
+
+@back Day.Crossfade id:City 
+
+The year of 2079 wasn't really good for the corporations. I heard that leftover Eastern Europe countries that corps avoid like fire are again at war. 
+Most people cope with the recession by using Neural Implant AI-VR technologies. They offer limitless AI creativity with the small side effect of losing your humanity.
+Your brain rewires so you don't see difference with AI creations and reality. It's a feature of GPT-510 and it provides a layer of authenticity. 
+That's why I'm not surprised about seeing things. 
+
+@showUI CityMap
+
+;MC: Here it is.
+;
+;@back EmptyBar.Crossfade id:Bar
+;
+;MC: Hey, Emily. Nice to see you. 
+;@showUI CityMap

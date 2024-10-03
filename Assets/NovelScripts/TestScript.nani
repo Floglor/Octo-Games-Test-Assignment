@@ -1,0 +1,18 @@
+@char MC
+
+MC: My name is now pre-defined by `T_PredefinedName` managed text record.
+MC: It's localizable; try changing the locale and it will update accordingly.
+MC: Now, we'll make the player input a custom name.
+
+; Notice the default input value assigned via `value` parameter:
+; it's retrieved from managed text and is localizable as well.
+@input name summary:"Choose your name." value:{T_PredefinedName}
+@stop
+
+; Here we set the variable, that is used in the expression
+; for display name to decide where to get the value from.
+@set nameSet=true
+
+MC: My display name is now bound to `name` custom variable.
+
+@stop
