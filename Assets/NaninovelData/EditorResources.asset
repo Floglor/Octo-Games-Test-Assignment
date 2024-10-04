@@ -167,7 +167,40 @@ MonoBehaviour:
   - Id: Characters/7bcc57db-82a6-4b5a-9f19-eea21a75baa3
     Resources: []
   - Id: Characters/cb69a34c-4160-4a64-9965-692839b85187
-    Resources: []
+    Resources:
+    - name: ^_^
+      pathPrefix: Characters/Emily
+      guid: 51900b7604a9a7e4499cd332e2255781
+    - name: Angry
+      pathPrefix: Characters/Emily
+      guid: 8e9de1d99d94fd1429f3b0a24887f110
+    - name: CryingVerge
+      pathPrefix: Characters/Emily
+      guid: 0ee0276d3020fdd4791e0f92fbcd3778
+    - name: Emotional
+      pathPrefix: Characters/Emily
+      guid: 8cb9ed7685315a34997cf397985c7017
+    - name: Flushed
+      pathPrefix: Characters/Emily
+      guid: 397bd7fead1577e43bab6c6549b9c3c3
+    - name: PleasedFlushed
+      pathPrefix: Characters/Emily
+      guid: 63f7a971b32546346a9bd74d1c8b4845
+    - name: Poker
+      pathPrefix: Characters/Emily
+      guid: aaf894b7ead98a64fa7a95708159d9cc
+    - name: PokerWorried
+      pathPrefix: Characters/Emily
+      guid: b063ff3c8dbcc9747967aa688c00d218
+    - name: Shocked
+      pathPrefix: Characters/Emily
+      guid: 9a488aec6890f5941b51ccbe84c5af6d
+    - name: Worried
+      pathPrefix: Characters/Emily
+      guid: 5bd562a0c05370c40bba03b2e223f292
+    - name: Casual
+      pathPrefix: Characters/Emily
+      guid: 761b2d4d1ff71b3479753c571f0eb4dc
   - Id: Backgrounds/2b8f5157-0cf6-4deb-9603-1abc2a8d59cc
     Resources:
     - name: WindowView
@@ -206,3 +239,6 @@ MonoBehaviour:
     - name: EmptyBar2
       pathPrefix: Backgrounds/Bar
       guid: 3f653364069b5ef4b87b9bb6c26e5585
+    - name: FullBar
+      pathPrefix: Backgrounds/Bar
+      guid: a44407e7a43670d45a9fce385f3554aa
