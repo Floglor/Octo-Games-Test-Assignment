@@ -1,0 +1,13 @@
+@back CyberApartment
+@if !TheItemObtained
+@char Yog.Neutral
+Yog: Did you get it?
+MC: Erm, no. 
+Yog: Then why are you still here? Go, now! Hush. 
+MC: I just wanted-
+@char Yog.Angry
+Yog: GO!
+@goto CityMap
+@elseIf TheItemObtained
+@goto WIP
+@endIf

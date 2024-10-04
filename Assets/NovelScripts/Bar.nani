@@ -1,0 +1,78 @@
+@back FullBar id:Bar
+MC: Here it is.  
+MC: Hey, Emily. Nice to see you.
+
+@char Emily.Casual pose:CentreZoomed
+Emily: {name}! You finally left your house. That's really nice. What brought you here?
+
+@choice "You." goto:.You  
+@choice "Beer." goto:.Beer  
+@choice "There’s one item I’m looking for..." goto:.TheItem  
+@stop
+
+# You
+@char Emily.Flushed
+Emily: Oh—Really?  
+MC: Yeah, how are you?  
+
+@char Emily.Poker
+Emily: I don't know. Everyone here is so distant. I work at the bar, but I don't feel like I'm talking to people anymore, you know what I mean?  
+MC: Not exactly.
+
+@char Emily.PokerWorried
+Emily: It feels like I talk at people sometimes, not with them.  
+MC: Huh. Is that so?
+
+Emily: The moment I say something uninteresting, people tend to... drift off. Everyone’s so consumed with their own stuff...
+
+When she spoke, I glanced at the TV screen behind her. Seeing Lockheed Martin stock plummeting made me really worried—almost all my stocks are there! I need to hurry with whatever I’m doing here.
+
+Emily: Are you even listening?
+
+@goto .TheItem
+
+# Beer
+@char Emily.Poker
+Emily: Of course.  
+MC: What? Is it wrong to come to a bar for a beer?
+
+Emily: I thought you only drank energy drinks.  
+MC: I decided to man up and try some alcohol.
+
+@char Emily.CryingVerge
+Emily: {name}, how have you not gotten used to beer? Did you grow up in a cave?  
+MC: You could say that...
+
+@char Emily.Emotional
+Emily: ...  
+I tried the beer she handed me.  
+MC: It’s surprisingly good. Wow. I think I love it.
+
+@char Emily.Casual
+Emily: Our boy’s growing up.  
+@goto .TheItem
+
+# TheItem
+@char Emily.Poker
+MC: Emily, I’m looking for something really important. There’s an item... or a way to get an item, somewhere around here. And I need it.
+
+I just realized how dumb that sounds.  
+Emily: That is exceptionally vague.  
+MC: I know...
+
+Emily: There’s a guy who was bothering people, trying to give them something he doesn’t want. We wanted to kick him out, but he agreed to stop annoying customers. But he said if someone actually wants it, they’ll have to pass a memory game.
+
+MC: A game? Rocket League tournament? The Elden Souls: Dark Sekiro speedrun challenge? I can do—  
+Emily: It’s a match-two card game.  
+MC: Oh.
+
+@char Emily.PokerWorried
+Emily: Do you want to try? It’s an ancient game.  
+MC: Well, I probably need whatever that guy has, so why not? But why a game to test people?
+
+Emily: He said the item is dangerous, so he doesn’t want to leave it with someone whose memory’s totally fried from AI-VR tech.  
+MC: Heh. Those freaks.  
+Fuck.
+
+Emily: Do you need me to explain the rules?  
+@stop

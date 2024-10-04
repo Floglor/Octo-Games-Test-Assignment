@@ -152,6 +152,18 @@ MonoBehaviour:
     - name: MainScript
       pathPrefix: Scripts
       guid: fd5b2029f38fead49bdf4c560d347c01
+    - name: Bar
+      pathPrefix: Scripts
+      guid: a37a53e5c1d6b7b4aac6fdb363c1ea6a
+    - name: Home
+      pathPrefix: Scripts
+      guid: ee02c55b62a46fb48b9e8d0a0463097e
+    - name: WIP
+      pathPrefix: Scripts
+      guid: 7ce9dda11c119e248a78427307e069ac
+    - name: CityMap
+      pathPrefix: Scripts
+      guid: 1fbf948085410ce49af37765d3162749
   - Id: Characters/7bcc57db-82a6-4b5a-9f19-eea21a75baa3
     Resources: []
   - Id: Characters/cb69a34c-4160-4a64-9965-692839b85187
