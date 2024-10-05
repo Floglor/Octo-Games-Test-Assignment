@@ -12,7 +12,7 @@ namespace CardsMemoryGame.Scripts
         [SerializeField] private List<Sprite> _cardsSprites;
         [SerializeField] private Sprite _cardsBackSprite;
 
-        [SerializeField] private int numberOfCards = 16;
+        [SerializeField] private int numberOfCards = 6;
         private RotatingCard _firstFlippedCard = null;
         private RotatingCard _secondFlippedCard = null;
         private int _mistakes = 0;
@@ -31,25 +31,41 @@ namespace CardsMemoryGame.Scripts
 
         private async void GoBackToNovelAsync()
         {
+            IntegerParameter mistakes = new IntegerParameter
+            {
+                Value = _mistakes
+            };
+
+            IntegerParameter time = new IntegerParameter
+            {
+                Value = (int) _elapsedTime
+            };
+            
             SwitchToNovel switchCommand = new SwitchToNovel
             {
                 PlaybackSpot = default,
                 ScriptName = "GameResult",
-                Mistakes = new IntegerParameter().Value = _mistakes,
-                Time = new IntegerParameter().Value = (int) _elapsedTime,
+                Mistakes = mistakes,
+                Time = time,
             };
             await switchCommand.ExecuteAsync();
         }
 
-        private async void Start()
+        public void StartGame(int cardsNumber)
         {
-            SwitchToMinigame switchCommand = new SwitchToMinigame();
-            ICustomVariableManager variableManager = Engine.GetService<ICustomVariableManager>(); 
-            variableManager.TryGetVariableValue<int>("MinigameCards", out int intValue);
-            numberOfCards = intValue;
+            numberOfCards = cardsNumber;
             InitializePlayingCards();
-            await switchCommand.ExecuteAsync();
         }
+
+     //  private async void Start()
+     //  {
+     //      SwitchToMinigame switchCommand = new SwitchToMinigame();
+     //      ICustomVariableManager variableManager = Engine.GetService<ICustomVariableManager>(); 
+     //      variableManager.TryGetVariableValue<int>("MinigameCards", out int intValue);
+     //      numberOfCards = intValue;
+     //      InitializePlayingCards();
+     //      await switchCommand.ExecuteAsync();
+     //  }
 
         private void InitializePlayingCards()
         {

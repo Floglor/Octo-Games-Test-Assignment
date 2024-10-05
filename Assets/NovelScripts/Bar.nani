@@ -5,9 +5,9 @@ MC: Hey, Emily. Nice to see you.
 @char Emily.Casual pose:CentreZoomed
 Emily: {name}! You finally left your house. That's really nice. What brought you here?
 
-@choice "You." goto:.You  
-@choice "Beer." goto:.Beer  
-@choice "There’s one item I’m looking for..." goto:.TheItem  
+@choice You. goto:.You
+@choice Beer. goto:.Beer
+@choice "There’s one item I’m looking for..." goto:.TheItem
 @stop
 
 # You
@@ -76,4 +76,5 @@ Fuck.
 
 Emily: Do you need me to explain the rules?  
 @showUI MemoryMinigame
+@minigame cardsNumber:6
 @stop

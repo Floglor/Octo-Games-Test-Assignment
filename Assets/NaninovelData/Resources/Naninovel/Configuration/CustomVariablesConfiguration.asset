@@ -17,9 +17,13 @@ MonoBehaviour:
     value: false
   - name: TheItemObtained
     value: false
+  - name: TheLocationAvailable
+    value: false
   - name: MinigameTimeTaken
     value: 0
   - name: MinigameMistakes
     value: 0
   - name: MinigameCards
     value: 6
+  - name: MinigameScore
+    value: 0

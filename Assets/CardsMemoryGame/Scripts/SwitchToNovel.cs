@@ -8,7 +8,7 @@ namespace CardsMemoryGame.Scripts
         public StringParameter ScriptName;
         public IntegerParameter Mistakes;
         public IntegerParameter Time;
-        
+
 
         public override async UniTask ExecuteAsync(AsyncToken asyncToken = default)
         {
@@ -17,9 +17,12 @@ namespace CardsMemoryGame.Scripts
             {
                 IScriptPlayer scriptPlayer = Engine.GetService<IScriptPlayer>();
                 ICustomVariableManager variableManager = Engine.GetService<ICustomVariableManager>();
-                variableManager.TrySetVariableValue("MinigameTimeTaken", Time);
-                variableManager.TrySetVariableValue("MinigameMistakes", Mistakes);
-
+                int minigameCards;
+                variableManager.TryGetVariableValue<int>("MinigameCards", out minigameCards);
+                variableManager.TrySetVariableValue<int>("MinigameTimeTaken", Time);
+                variableManager.TrySetVariableValue<int>("MinigameMistakes", Mistakes);
+                variableManager.TrySetVariableValue<int>("MinigameScore",
+                    minigameCards * 600 / (Time / 6 + 6 * (Mistakes + 1)));
                 await scriptPlayer.PreloadAndPlayAsync(ScriptName);
             }
 
