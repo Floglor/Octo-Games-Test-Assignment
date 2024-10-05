@@ -1,0 +1,4 @@
+@back FullBar id:Bar
+@char Emily.Poker
+Emily: You made {MinigameMistakes} mistakes and you took {MinigameTimeTaken} seconds to finish.
+@stop

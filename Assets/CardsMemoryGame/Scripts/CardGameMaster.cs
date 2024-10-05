@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Naninovel;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,10 +9,10 @@ namespace CardsMemoryGame.Scripts
     {
         [SerializeField] private List<RotatingCard> _rotatingCards;
         [SerializeField] private GameObject _rotatingCardPrefab;
-        [SerializeField] private List<Sprite> _cardsSprites; 
+        [SerializeField] private List<Sprite> _cardsSprites;
         [SerializeField] private Sprite _cardsBackSprite;
 
-        [SerializeField] private int numberOfCards = 16; 
+        [SerializeField] private int numberOfCards = 16;
         private RotatingCard _firstFlippedCard = null;
         private RotatingCard _secondFlippedCard = null;
         private int _mistakes = 0;
@@ -19,12 +20,35 @@ namespace CardsMemoryGame.Scripts
         private bool _gameStarted = false;
 
         private bool _flipLocked = false;
+
         private void Update()
         {
             if (_gameStarted)
             {
                 _elapsedTime += Time.deltaTime;
             }
+        }
+
+        private async void GoBackToNovelAsync()
+        {
+            SwitchToNovel switchCommand = new SwitchToNovel
+            {
+                PlaybackSpot = default,
+                ScriptName = "GameResult",
+                Mistakes = new IntegerParameter().Value = _mistakes,
+                Time = new IntegerParameter().Value = (int) _elapsedTime,
+            };
+            await switchCommand.ExecuteAsync();
+        }
+
+        private async void Start()
+        {
+            SwitchToMinigame switchCommand = new SwitchToMinigame();
+            ICustomVariableManager variableManager = Engine.GetService<ICustomVariableManager>(); 
+            variableManager.TryGetVariableValue<int>("MinigameCards", out int intValue);
+            numberOfCards = intValue;
+            InitializePlayingCards();
+            await switchCommand.ExecuteAsync();
         }
 
         private void InitializePlayingCards()
@@ -77,8 +101,8 @@ namespace CardsMemoryGame.Scripts
 
             for (int i = 0; i < numberOfCards / 2; i++)
             {
-                cardSpritesForGame.Add(_cardsSprites[i]); 
-                cardSpritesForGame.Add(_cardsSprites[i]); 
+                cardSpritesForGame.Add(_cardsSprites[i]);
+                cardSpritesForGame.Add(_cardsSprites[i]);
             }
 
             for (int i = 0; i < cardSpritesForGame.Count; i++)
@@ -106,6 +130,7 @@ namespace CardsMemoryGame.Scripts
 
                 CheckCardsMatch();
             }
+
             UnlockAllCards();
         }
 
@@ -142,7 +167,8 @@ namespace CardsMemoryGame.Scripts
 
             if (gameWon)
             {
-                //GameWon
+                _gameStarted = false;
+                GoBackToNovelAsync();
             }
             else
             {
@@ -160,10 +186,10 @@ namespace CardsMemoryGame.Scripts
             _flipLocked = false;
         }
 
-        private void OnEnable()
-        {
-            InitializePlayingCards();
-        }
+      //  private void OnEnable()
+      //  {
+      //      InitializePlayingCards();
+      //  }
 
         public int GetMistakes()
         {

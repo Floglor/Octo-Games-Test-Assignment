@@ -147,6 +147,9 @@ MonoBehaviour:
     - name: CityMap
       pathPrefix: UI
       guid: 04e975d44e107f440bb993a916d25fc4
+    - name: MemoryMinigame
+      pathPrefix: UI
+      guid: e508763850ad79242819078d35b6d1fb
   - Id: Scripts
     Resources:
     - name: MainScript
@@ -164,6 +167,9 @@ MonoBehaviour:
     - name: CityMap
       pathPrefix: Scripts
       guid: 1fbf948085410ce49af37765d3162749
+    - name: GameResult
+      pathPrefix: Scripts
+      guid: 29fa032710b6b034092d858afa8d9bc6
   - Id: Characters/7bcc57db-82a6-4b5a-9f19-eea21a75baa3
     Resources: []
   - Id: Characters/cb69a34c-4160-4a64-9965-692839b85187
