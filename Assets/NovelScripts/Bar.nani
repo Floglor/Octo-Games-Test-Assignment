@@ -1,3 +1,7 @@
+@if TheItemObtained=true
+@goto .EmptyBar
+@endIf
+
 @back FullBar id:Bar
 MC: Here it is.  
 MC: Hey, Emily. Nice to see you.
@@ -75,6 +79,43 @@ MC: Heh. Those freaks.
 Fuck.
 
 Emily: Do you need me to explain the rules?  
+@choice Yes. goto:.Rules
+@choice No. goto:.Game
+@stop
+
+#Rules
+Emily: It's a classic old of match two. And by classic I mean very old. You'll have to find pairs of cards, eliminating them. You can only turn two at the time. 
+Emily: Remember their positions and don't just turn them around randomly. You will be scored for speed and correctness of your choices.
+
+#Game
+Emily: How many cards can you handle? 
+@choice Six. goto:.Six
+@choice Twelve. goto:.Twelve
+@choice Eighteen. goto:.Eighteen
+@stop
+
+#Six
 @showUI MemoryMinigame
 @minigame cardsNumber:6
 @stop
+
+#Twelve
+@showUI MemoryMinigame
+@minigame cardsNumber:12
+@stop
+
+#Eighteen
+@showUI MemoryMinigame
+@minigame cardsNumber:18
+@stop
+
+
+#EmptyBar
+@back EmptyBar id:Bar
+Huh? Everyone is gone. I don't see Emily, too. Their drinks are left, some are half empty.
+@back EmptyBar2 id:Bar
+I turned my head. It felt creepy and weird.
+I don't like it at all. I need to get out of here.
+
+@set EmptyBarVisited=true
+@goto CityMap

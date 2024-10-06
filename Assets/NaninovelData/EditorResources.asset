@@ -170,6 +170,9 @@ MonoBehaviour:
     - name: GameResult
       pathPrefix: Scripts
       guid: 29fa032710b6b034092d858afa8d9bc6
+    - name: Ripple
+      pathPrefix: Scripts
+      guid: 942ef7911f3bb7a4c828934af88c1592
   - Id: Characters/7bcc57db-82a6-4b5a-9f19-eea21a75baa3
     Resources: []
   - Id: Characters/cb69a34c-4160-4a64-9965-692839b85187
@@ -248,3 +251,8 @@ MonoBehaviour:
     - name: FullBar
       pathPrefix: Backgrounds/Bar
       guid: a44407e7a43670d45a9fce385f3554aa
+  - Id: Backgrounds/e21c9323-a23e-4f2d-814d-6046c023804a
+    Resources:
+    - name: WhiteRoom
+      pathPrefix: Backgrounds/Ripple
+      guid: 4bb2bac331cc8e441a1e8ef97cd81cca

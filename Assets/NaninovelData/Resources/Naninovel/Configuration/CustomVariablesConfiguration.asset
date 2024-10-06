@@ -27,3 +27,5 @@ MonoBehaviour:
     value: 6
   - name: MinigameScore
     value: 0
+  - name: BarHomeUnlocked
+    value: true

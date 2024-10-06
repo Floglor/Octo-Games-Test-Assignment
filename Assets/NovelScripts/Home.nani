@@ -9,5 +9,133 @@ MC: I just wanted-
 Yog: GO!
 @goto CityMap
 @elseIf TheItemObtained
-@goto WIP
+@goto .TheChoice
 @endIf
+
+#TheChoice
+
+@char Yog.Neutral
+I got home, finally. Yog is still here, mumbling something.
+
+Yog: <size=60%>Crap. What was her atomic structure again? He's going to be mad...
+MC: Hey, Yog. I got what you wanted. 
+Yog: Oh! {name}!
+
+I see Emily materializing in the other side of the room.
+@char Emily.Shocked
+Emily: Huh? What happened? 
+Yog looks at Emily with her vertical eyes. Or whatever that is. 
+Yog: Good. 
+@char Emily.Poker
+Emily: Wow. What is that you have in your hands. It looks cool. And what is that cloud of bubbles? It can talk...
+MC: Wait, you can see her too?
+@char Emily.Worried
+Emily: What do you mean?
+I don't remember Emily installing that AI-VR implant. Does that mean...?
+Yog: {name}! Give that thing to me. 
+Emily: Hey, hold on a moment. I really like it. 
+@char Yog.Angry
+Yog is getting nervous. She looked at Emily again, and despite her not having eyebrows, I can see her frowning.
+Yog: It's not something you should play with. You need to give it to me immediately, {name}. 
+@char Emily.Casual
+Emily: Oh? I won't lose to a fart cloud in an attention-seeking competition.
+@style color=#ff0000,b
+Yog: <size=130%>What did you call me just now?
+@style default
+MC: Hey-hey-hey, enough! What I understand is that either you are both not real or both real. That is the single explanation here. 
+Yog: That guy doesn't even follow us.
+MC: Hey, I have that item, so I will decide who is going to have it. How about that? I kinda like it too.
+Emily: {name}... you do remember that I have a birthday in a few days? I would really like that black thing you have in your hands.
+@char Yog.Neutral
+Yog: You don't know what you are playing with. 
+
+@if EmptyBarVisited=true
+Yog: You saw the bar. Didn't that tell you anything? Didn't that at least give you the slightest idea what you are dealing with here?
+@endIf
+@shake Yog
+Yog: If you don't give the Fabric of Reality to me, I'll swap your tiny little star for a black hole!
+
+Fabric of Reality... so that is its name.
+
+@choice "Give it to Yog." goto:.YogItem
+@choice "Give it to Emily." goto:.EmilyItem
+@choice "Keep it for yourself." goto:.SelfItem
+@stop
+
+
+#YogItem
+@char Yog.Flushed
+Yog: I knew you'd make the right choice. Good boy.
+@char Emily.Emotional
+Emily: How could you? It's so shiny.
+Yog: It is literally not.
+Emily: Shut up! It's not only about that thing.
+Emily looked at me.
+@char Emily.CryingVerge
+Emily: You're always like that. You never thought of other people or cared what others think. You only do what you think is logical. 
+Emily: You hide in your cave day after day. Sometimes I don't even know if you're alive or not because you are so scared of attention that you're invisible on every social media. 
+Emily: I just wanted a small token of attention and appreciation. When was the last time you gave anything to anyone? 
+Emily: When will you learn that there are people who still want you around? Why did you install that thing in your head?
+
+@hide Emily
+Emily stormed off.
+...
+That made me really sad. I don't know why. I thought I didn't care. 
+
+Yog: You made the right choice, darling.
+MC: Now you call me darling again.
+Yog: I was with you all that time. And she only needs you when she's bored or feeling alone.
+MC: Don't say it like that. 
+
+@char Yog pos:50,0
+Yog: I promised you something.
+I swallowed.
+MC: Huh?
+@char Yog.VeryFlushed
+Yog: Don't you remember, darling?
+@char Yog.Neutral
+MC: Erm- It's okay, I don't really... wait, what did you want to show me?
+@char Yog scale:5 pos:50,-100
+@style color=#ff0000,b
+Yog: <size=150%>Everything. 
+@style default
+@glitch
+@title
+
+#EmilyItem
+@char Emily.^_^
+Emily: Yaay!
+@char Yog.Angry
+@shake Yog
+Yog: I cannot believe that I, Yog-Sothoth, was refused. The insolence of this mortal. A grain of sand that tries to defy something it can't comprehend.
+Yog: To think that I enjoyed talking to an ape who can't comprehend simple space-time safety.
+Emily: Hey, don't be grumpy, I know him from the childhood. Of course {name} would choose me.
+Yog: ...
+Yog got really angry. Now, that I know she's not something made up, I don't know if her threats were real or not.
+Yog: Enjoy your last Winter.
+
+@hide Yog
+Yog stormed off.
+Will I miss her? She was interesting, at least.
+
+@char Emily.Casual pos:50,0
+Emily: Sorry about making your friend grumpy. Thank you for that fabric. It's so weird. 
+MC: I have a feeling that we should be careful with it. 
+@char Emily.Emotional
+Emily: You know... it was fun. I really wanted to see you. I'd really like to see you more. 
+Emily: I know that you'd refuse the invitation to my birthday. But... what if it will be just me and you?
+MC: Huh?...
+Emily: You got hu-uge social anxiety, right? It's so common now. But I want you to feel comfortable.
+MC: At the expense of your birthday?
+@char Emily.PleasedFlushed
+Emily: That will be worth it. 
+She has a bad taste. 
+MC: I don't want to ruin your birthday for that, I'm sorry.
+@char Emily.Angry
+Emily: I'll show you my boobs.
+MC: ...
+MC: So, what time should I pick you up tomorrow?
+@goto EmilyEnding
+@stop
+
+#SelfItem

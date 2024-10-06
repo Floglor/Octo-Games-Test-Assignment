@@ -2,13 +2,11 @@
 MC: My head hurts.  
 I worked too much last night. Well, it was already morning when I woke up. I think.
 
-@back WindowView.Saturate
+@back CyberApartment
 MC: Sometimes, I forget my name. What was it?
 
 @input name summary:"Choose your name." value:{T_PredefinedName}
 @stop
-
-@back CyberApartment.Crossfade
 
 @set nameSet=true
 MC: It's Saturday, and it's already late. Just how long did I sleep?

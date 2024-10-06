@@ -2,13 +2,13 @@
 @char Emily.Poker
 @hideUI MemoryMinigame
 
-You made {MinigameMistakes} mistakes and you took {MinigameTimeTaken} seconds to finish.
+You flipped cards {MinigameMistakes} times without eliminating them and you took {MinigameTimeTaken} seconds to finish.
 
-@if score>70
+@if MinigameScore>70
 @goto .GoodScore 
-@elseIf score<=70
+@elseIf MinigameScore<=70
 @goto .MediumScore
-@elseif score<=30
+@elseif MinigameScore<=30
 @goto .BadScore
 @endIf
 @goto .TheItem
@@ -46,6 +46,10 @@ Turned out I could have it anyway - nobody else wanted anything from that person
 
 
 #TheItem
-The silent guy who was testing me left, leaving a small round object. It was smooth and metallic. When I touched it, I suddenly saw a flash of light...
+The silent guy who was testing me left, leaving a small round object. It was smooth and metallic.
+When I touched it, I suddenly saw a flash of light...
+@set TheLocationAvailable=true
+@set BarHomeUnlocked=false
+@goto CityMap
 
 @stop
