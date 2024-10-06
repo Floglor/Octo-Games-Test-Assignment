@@ -173,6 +173,9 @@ MonoBehaviour:
     - name: Ripple
       pathPrefix: Scripts
       guid: 942ef7911f3bb7a4c828934af88c1592
+    - name: EmilyEnding
+      pathPrefix: Scripts
+      guid: e028085fec1c02841a62f3ed32f34596
   - Id: Characters/7bcc57db-82a6-4b5a-9f19-eea21a75baa3
     Resources: []
   - Id: Characters/cb69a34c-4160-4a64-9965-692839b85187
@@ -212,9 +215,6 @@ MonoBehaviour:
       guid: 761b2d4d1ff71b3479753c571f0eb4dc
   - Id: Backgrounds/2b8f5157-0cf6-4deb-9603-1abc2a8d59cc
     Resources:
-    - name: WindowView
-      pathPrefix: Backgrounds/MainBackground
-      guid: 25d10b228a0b1e14ab957ed99d475ecb
     - name: CyberApartment
       pathPrefix: Backgrounds/MainBackground
       guid: f34a64aa07c0ab84289043a69c1dcd2f
@@ -256,3 +256,10 @@ MonoBehaviour:
     - name: WhiteRoom
       pathPrefix: Backgrounds/Ripple
       guid: 4bb2bac331cc8e441a1e8ef97cd81cca
+  - Id: Characters/404d2a20-c0de-4f82-813e-349b27ddea4d
+    Resources:
+    - name: FabricOfReality
+      pathPrefix: Characters/Fabric
+      guid: 1264669c2a3493a4c9ef9e3621be3f00
+  - Id: Audio
+    Resources: []

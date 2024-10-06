@@ -12,7 +12,7 @@ Yog: GO!
 @goto .TheChoice
 @endIf
 
-#TheChoice
+# TheChoice
 
 @char Yog.Neutral
 I got home, finally. Yog is still here, mumbling something.
@@ -63,7 +63,7 @@ Fabric of Reality... so that is its name.
 @stop
 
 
-#YogItem
+# YogItem
 @char Yog.Flushed
 Yog: I knew you'd make the right choice. Good boy.
 @char Emily.Emotional
@@ -95,14 +95,14 @@ MC: Huh?
 Yog: Don't you remember, darling?
 @char Yog.Neutral
 MC: Erm- It's okay, I don't really... wait, what did you want to show me?
-@char Yog scale:5 pos:50,-100
+@char Yog pos:50,-100 scale:5
 @style color=#ff0000,b
 Yog: <size=150%>Everything. 
 @style default
 @glitch
 @title
 
-#EmilyItem
+# EmilyItem
 @char Emily.^_^
 Emily: Yaay!
 @char Yog.Angry
@@ -118,7 +118,7 @@ Yog: Enjoy your last Winter.
 Yog stormed off.
 Will I miss her? She was interesting, at least.
 
-@char Emily.Casual pos:50,0
+@char Emily.Casual pos:50,-50
 Emily: Sorry about making your friend grumpy. Thank you for that fabric. It's so weird. 
 MC: I have a feeling that we should be careful with it. 
 @char Emily.Emotional
@@ -138,4 +138,38 @@ MC: So, what time should I pick you up tomorrow?
 @goto EmilyEnding
 @stop
 
-#SelfItem
+# SelfItem
+@char Emily.Shocked
+@shake Yog
+Emily: What?
+Yog: I am baffled.
+Emily: What do you even need it for?
+MC: I don't know. It just looks cool, like you said. But it's not about the fabric of reality. It's about both of you trying to manipulate me.
+MC: Did you notice how you two already had eyes on this thing, like it's already yours?
+@char Emily.Worried
+MC: The question wasn't about me at all. 
+MC: I'm just reminding you that there are three people in this room, not just two of you.
+MC: Behold, years of stoicism game me the power of refusing thots... and eldrich gods. 
+Yog: He is completely gone. 
+Emily: Yeah...
+Yog: At least you didn't give the Fabric to that friend of yours. I'll stay here. Eventually you'll just give it to me. 
+Emily: Hey!
+MC: Why do you think so?
+Yog: You have nothing going on in your life but work and scrolling screens. You don't need the Fabric. Eventually it will just collect enough dust that you'd want to get rid of it. And I'm not going anywhere. 
+Yog: Also, you are confusing stoicism with apathy. 
+Emily: Huh. Well, okay, {name}. I guess you haven't changed. You know where to find me. Come drink beer with me sometimes.
+Yog: Oh, the bar! <size=60%> The people in the bar!
+@hide Yog
+Emily: Huh? What happened?
+MC: I don't really know. 
+Emily: Bye. And yeah, come see me on my birthday, if you're not afraid of ~~seeing people~~. 
+I shuddered.
+@hide Emily
+
+Well. I guess nothing changed. That's what I like about my life. It's comfortable and secure in it's stillness. I won't go to the birthday party - I never liked parties.
+They are annoying, small talk is killing me. 
+And I am almost scared for some reason.
+@char Fabric
+I touched the fabric of reality, making it wobble and move. Hehe, it's a fun toy. 
+Time to take a nap. 
+@title
