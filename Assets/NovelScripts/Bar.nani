@@ -77,6 +77,8 @@ MC: Well, I probably need whatever that guy has, so why not? But why a game to t
 Emily: He said the item is dangerous, so he doesn’t want to leave it with someone whose memory’s totally fried from AI-VR tech.  
 MC: Heh. Those freaks.  
 Fuck.
+@toast "Quest Updated." 
+@updatequest QuestStage:1
 
 Emily: Do you need me to explain the rules?  
 @choice Yes. goto:.Rules
@@ -116,6 +118,8 @@ Huh? Everyone is gone. I don't see Emily, too. Their drinks are left, some are h
 @back EmptyBar2 id:Bar
 I turned my head. It felt creepy and weird.
 I don't like it at all. I need to get out of here.
+@toast "Quest Updated." 
+@updatequest QuestStage:4
 
 @set EmptyBarVisited=true
 @goto CityMap

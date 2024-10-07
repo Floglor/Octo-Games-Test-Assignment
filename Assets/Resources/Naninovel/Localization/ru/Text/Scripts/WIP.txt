@@ -1,0 +1,5 @@
+; English <en> to Russian <ru> localization document for `WIP` naninovel script
+
+# ~a79b95c2
+; Work in Progress
+

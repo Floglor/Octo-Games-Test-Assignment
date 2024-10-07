@@ -46,6 +46,8 @@ Turned out I could have it anyway - nobody else wanted anything from that person
 
 
 #TheItem
+@toast "Quest Updated." 
+@updatequest QuestStage:2
 The silent guy who was testing me left, leaving a small round object. It was smooth and metallic.
 When I touched it, I suddenly saw a flash of light...
 @set TheLocationAvailable=true

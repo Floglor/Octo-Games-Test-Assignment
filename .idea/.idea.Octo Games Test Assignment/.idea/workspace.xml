@@ -68,22 +68,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/QuestLog.cs</url>
-          <line>14</line>
-          <properties documentPath="C:\Users\Floggy\Documents\Octo Games Test Assignment\Assets\QuestLog.cs" initialLine="13" containingFunctionPresentation="method 'Start'">
-            <startOffsets>
-              <option value="308" />
-            </startOffsets>
-            <endOffsets>
-              <option value="309" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#UnityEngine.Component" memberName="gameObject" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

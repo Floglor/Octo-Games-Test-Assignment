@@ -1,0 +1,61 @@
+; English <en> to Russian <ru> localization document for `GameResult` naninovel script
+
+# ~1243bdb5
+; You flipped cards 
+
+
+# ~c96b836e
+;  times without eliminating them and you took 
+
+
+# ~d5b3650f
+;  seconds to finish.
+
+
+# ~496abfd
+; Wow! You're really good at this.
+
+
+# ~9838036b
+; That wasn't the harders game, of course, but you were... fast.
+
+
+# ~76c883fb
+; I knew you didn't fry your brain with that AI-VR thing.
+
+
+# ~f9a56ca9
+; I felt a stroke of pride.
+
+
+# ~1c739dfb
+; I'm not a lunatic.
+
+
+# ~7db6f932
+; ...
+
+
+# ~411803a4
+; Well, you passed. Hooray.
+
+
+# ~351ce9f
+; I wasn't really that good, was I?
+
+
+# ~79089d50
+; I-it's okay. You took your time, that's is. I'm sure it's okay.
+
+
+# ~ea19ffc3
+; Turned out I could have it anyway - nobody else wanted anything from that person.
+
+
+# ~7f49bae5
+; The silent guy who was testing me left, leaving a small round object. It was smooth and metallic.
+
+
+# ~199187fc
+; When I touched it, I suddenly saw a flash of light...
+

@@ -9,6 +9,8 @@ It felt like something really natural, yet something that I shouldn't have.
 But is also kind of cool. When I touch it, I feel like I'm not holding anything. It weighs nothing.
 It sometimes shifts like a lava lamp.
 Perhaps this is what Yog wanted. A fitting location for an AI creation, but... it's strange that I can walk in holes in reality. 
+@toast "Quest Updated." 
+@updatequest QuestStage:3
 
 @set TheItemObtained=true
 @set TheLocationAvailable=false

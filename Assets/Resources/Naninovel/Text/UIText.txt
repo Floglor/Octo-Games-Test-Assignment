@@ -1,0 +1,10 @@
+Q1: Go to "The Bottom"
+Q1Desc: Yog asked you to obtain "the means to obtain the item" that she really needs, and sent you to "The Bottom" - the bar not far from home.
+Q2: Win at the game
+Q2Desc: You need to pass a match two game to prove that your brain is not fried.
+Q3: Obtain the item
+Q3Desc: Get "The Item" that Yog wants.
+Q4: Go back
+Q4Desc: Return to the bar and ask about how you disappeared.
+Q5: Return home
+Q5Desc: Go back home and choose what to do with the item you found.

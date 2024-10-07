@@ -1,0 +1,161 @@
+; English <en> to Russian <ru> localization document for `MainScript` naninovel script
+
+# ~b9a44a1
+; My head hurts.
+
+
+# ~420f648e
+; I worked too much last night. Well, it was already morning when I woke up. I think.
+
+
+# ~c6dd7964
+; Sometimes, I forget my name. What was it?
+
+
+# ~c8f22b8a
+; Choose your name.
+
+
+# ~ac171f88
+; It's Saturday, and it's already late. Just how long did I sleep?
+
+
+# ~5c6c0479
+; You're finally awake. You slept for quite a while.
+
+
+# ~1b8d6f54
+; The familiar, pleasant feminine voice buzzes in my head.
+
+
+# ~47e58c7a
+; I feel like I need to explain something. Yog is my friend. I don't know exactly how that works...
+
+
+# ~c6983a1c
+; ...but when I found an old book in a public library and read it, the voice spoke to me.
+
+
+# ~a0c44d24
+; Maybe nobody found it before me because nobody uses paper anymore. That library was abandoned a long time ago.
+
+
+# ~8b6857ff
+; Maybe I'm just going insane. But I see these weird golden bubbles when I talk to her. And she doesn’t always follow me.
+
+
+# ~778e6a74
+; Good morning. Yeah, sorry, I was asleep.
+
+
+# ~95293498
+; I have a quest for you.
+
+
+# ~d2741234
+; What are you, some kind of NPC?
+
+
+# ~ae892a5e
+; What is an NPC?
+
+
+# ~a046db6d
+; Nevermind. You’ve never asked me to do anything before. What do you need?
+
+
+# ~eabcf4b6
+; There is an item... of great value to me. I want you to get it. It's really, really important.
+
+
+# ~e6744009
+; Wow. What is it?
+
+
+# ~18b2e650
+; I'm starting to question if I’m really seeing things.
+
+
+# ~2ab221b
+; It doesn't matter, darling! What matters is that it's very precious to me. If you do this... I might show you something.
+
+
+# ~faa8c4e8
+; Wow. What are you going to show me?
+
+
+# ~7d744905
+; That's a secret. <3
+
+
+# ~c1ca3ea2
+; You're exceptionally cryptic today.
+
+
+# ~b26fd5ec
+; You always say that.
+
+
+# ~c03f10d7
+; Come on, you haven't even told me what you are. Nevermind. Where is it?
+
+
+# ~3e18ded5
+; I think there's a place called "The Bottom" or something. It's in Downtown.
+
+
+# ~27123a69
+; Oh, "The Bottom"? That's where Emily works.
+
+
+# ~c1f5f5de
+; <size=60%>Oh, that bitch.
+
+
+# ~71b34ac0
+; What?
+
+
+# ~eea3d06e
+; Nevermind, darling. I want you to go there and take it. Someone already has it, but it seems like they don't need it much. I mean, they have the means of obtaining it.
+
+
+# ~b968561c
+; What do you mean?
+
+
+# ~d5420c5d
+; Just go there and do something!
+
+
+# ~1a8678f7
+; Ugh.
+
+
+# ~5411786a
+; I guess I have to go now.
+
+
+# ~fd87d893
+; The year 2079 wasn't great for the corporations.
+
+
+# ~cb7f42e7
+; I heard the leftover Eastern European countries that the corps avoid like the plague are at war again.
+
+
+# ~6a410cae
+; Most people cope with the recession by using Neural Implant AI-VR technologies.
+
+
+# ~67434204
+; They offer limitless AI creativity, with the small side effect of losing your humanity.
+
+
+# ~6f9e67e1
+; Your brain rewires so you can’t tell the difference between AI creations and reality. It's a feature of GPT-510, and it adds a layer of authenticity.
+
+
+# ~be7b6a75
+; That’s why I'm not surprised I’m seeing things.
+

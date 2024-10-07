@@ -17,7 +17,7 @@ MonoBehaviour:
     Resources:
     - name: Dialogue
       pathPrefix: TextPrinters
-      guid: 1bc08ccd31adff6439e97161aa6e1d8b
+      guid: 7287b6bd33894104a92867c69f550018
   - Id: TextPrinters/8e5b480d-491f-4e2b-a7a1-2d22fd15e2fe
     Resources:
     - name: Fullscreen
@@ -27,7 +27,7 @@ MonoBehaviour:
     Resources:
     - name: Wide
       pathPrefix: TextPrinters
-      guid: 781828b806deb1e4cbf50ef9de41da10
+      guid: 7287b6bd33894104a92867c69f550018
   - Id: TextPrinters/fb291924-27c0-41e2-814d-64b0dbb8d49b
     Resources:
     - name: Chat
@@ -134,13 +134,13 @@ MonoBehaviour:
       guid: edb5329125befa949b65ebf9d9aa123d
     - name: VariableInputUI
       pathPrefix: UI
-      guid: bb95f484e341dcd4391a572f22b7d067
+      guid: a83de1d661487c745ab856e5fac29298
     - name: PauseUI
       pathPrefix: UI
       guid: 480f5db62ea305c46b89a86496d2a0c9
     - name: ToastUI
       pathPrefix: UI
-      guid: dd85ce99288c2f8488447fa511b1c0d6
+      guid: f9a037e0fcd70ec45a874ab052292f25
     - name: ScriptNavigatorUI
       pathPrefix: UI
       guid: 735d6aa767879aa469134858c5b2f0a7
@@ -150,6 +150,9 @@ MonoBehaviour:
     - name: MemoryMinigame
       pathPrefix: UI
       guid: e508763850ad79242819078d35b6d1fb
+    - name: QuestLog
+      pathPrefix: UI
+      guid: f86ee102679785b45a1642c56f97503f
   - Id: Scripts
     Resources:
     - name: MainScript
@@ -263,3 +266,8 @@ MonoBehaviour:
       guid: 1264669c2a3493a4c9ef9e3621be3f00
   - Id: Audio
     Resources: []
+  - Id: TextPrinters/3e03e626-ddf1-4673-a337-bc526fc8d49a
+    Resources:
+    - name: CyberPrinter
+      pathPrefix: TextPrinters
+      guid: 7287b6bd33894104a92867c69f550018

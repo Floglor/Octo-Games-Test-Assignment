@@ -1,0 +1,201 @@
+; English <en> to Russian <ru> localization document for `Bar` naninovel script
+
+# ~45e20ea7
+; Here it is.
+
+
+# ~379de444
+; Hey, Emily. Nice to see you.
+
+
+# ~23ff9a5f
+; ! You finally left your house. That's really nice. What brought you here?
+
+
+# ~8950e560
+; You.
+
+
+# ~bd43c8ae
+; Beer.
+
+
+# ~9622b584
+; There’s one item I’m looking for...
+
+
+# ~78fb1b5f
+; Oh—Really?
+
+
+# ~543e33da
+; Yeah, how are you?
+
+
+# ~cf84e43
+; I don't know. Everyone here is so distant. I work at the bar, but I don't feel like I'm talking to people anymore, you know what I mean?
+
+
+# ~ed181ec5
+; Not exactly.
+
+
+# ~69797ee4
+; It feels like I talk at people sometimes, not with them.
+
+
+# ~e67c6419
+; Huh. Is that so?
+
+
+# ~fc5ef50b
+; The moment I say something uninteresting, people tend to... drift off. Everyone’s so consumed with their own stuff...
+
+
+# ~e596a751
+; When she spoke, I glanced at the TV screen behind her. Seeing Lockheed Martin stock plummeting made me really worried—almost all my stocks are there! I need to hurry with whatever I’m doing here.
+
+
+# ~d7471499
+; Are you even listening?
+
+
+# ~50de9cff
+; Of course.
+
+
+# ~7d8d955
+; What? Is it wrong to come to a bar for a beer?
+
+
+# ~71675c8a
+; I thought you only drank energy drinks.
+
+
+# ~6fd43fcd
+; I decided to man up and try some alcohol.
+
+
+# ~ca1ac74e
+; , how have you not gotten used to beer? Did you grow up in a cave?
+
+
+# ~a73ca77b
+; You could say that...
+
+
+# ~7db6f932
+; ...
+
+
+# ~fd53de7b
+; I tried the beer she handed me.
+
+
+# ~c68350d2
+; It’s surprisingly good. Wow. I think I love it.
+
+
+# ~152bd6a
+; Our boy’s growing up.
+
+
+# ~23b92a50
+; Emily, I’m looking for something really important. There’s an item... or a way to get an item, somewhere around here. And I need it.
+
+
+# ~58a0a30b
+; I just realized how dumb that sounds.
+
+
+# ~a131245a
+; That is exceptionally vague.
+
+
+# ~8a3fe64f
+; I know...
+
+
+# ~de23caa2
+; There’s a guy who was bothering people, trying to give them something he doesn’t want. We wanted to kick him out, but he agreed to stop annoying customers. But he said if someone actually wants it, they’ll have to pass a memory game.
+
+
+# ~1d1fdbc8
+; A game? Rocket League tournament? The Elden Souls: Dark Sekiro speedrun challenge? I can do—
+
+
+# ~4b0d2bac
+; It’s a match-two card game.
+
+
+# ~6f37abd6
+; Oh.
+
+
+# ~3e3bf5f7
+; Do you want to try? It’s an ancient game.
+
+
+# ~91fca87e
+; Well, I probably need whatever that guy has, so why not? But why a game to test people?
+
+
+# ~8ed22c75
+; He said the item is dangerous, so he doesn’t want to leave it with someone whose memory’s totally fried from AI-VR tech.
+
+
+# ~b4075ea3
+; Heh. Those freaks.
+
+
+# ~86fe968a
+; Fuck.
+
+
+# ~b2ed98cf
+; Do you need me to explain the rules?
+
+
+# ~3b50c0f2
+; Yes.
+
+
+# ~a2a5571d
+; No.
+
+
+# ~6235253d
+; It's a classic old of match two. And by classic I mean very old. You'll have to find pairs of cards, eliminating them. You can only turn two at the time.
+
+
+# ~e2b0be8a
+; Remember their positions and don't just turn them around randomly. You will be scored for speed and correctness of your choices.
+
+
+# ~1160156d
+; How many cards can you handle?
+
+
+# ~7463e2b3
+; Six.
+
+
+# ~763fe9e4
+; Twelve.
+
+
+# ~8846b32d
+; Eighteen.
+
+
+# ~63fbcd85
+; Huh? Everyone is gone. I don't see Emily, too. Their drinks are left, some are half empty.
+
+
+# ~1ef7cc9c
+; I turned my head. It felt creepy and weird.
+
+
+# ~2d65c1cc
+; I don't like it at all. I need to get out of here.
+

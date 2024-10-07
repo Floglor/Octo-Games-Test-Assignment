@@ -1,4 +1,5 @@
 @hideAll time:0
 @camera offset:0,0 roll:0 zoom:0 time:0
 @showUI CityMap
+@showUI QuestLog
 @stop

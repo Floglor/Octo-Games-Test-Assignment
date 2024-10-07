@@ -1,0 +1,29 @@
+; English <en> to Russian <ru> localization document for `Ripple` naninovel script
+
+# ~237ca4de
+; The city was silent. It was like a glitch in the matrix. I found myself outside of the bar, then noticed a giant hole in the reality. It looked like it was placed for me.
+
+
+# ~cc1fc42b
+; Inside, I found a strange white room. It looked and felt unnatural, as if something made by a novice in Blender.
+
+
+# ~da48a34c
+; Something weird was lying on the floor.
+
+
+# ~73205685
+; It felt like something really natural, yet something that I shouldn't have.
+
+
+# ~3815cd26
+; But is also kind of cool. When I touch it, I feel like I'm not holding anything. It weighs nothing.
+
+
+# ~b921abaa
+; It sometimes shifts like a lava lamp.
+
+
+# ~2d2e1b3c
+; Perhaps this is what Yog wanted. A fitting location for an AI creation, but... it's strange that I can walk in holes in reality.
+

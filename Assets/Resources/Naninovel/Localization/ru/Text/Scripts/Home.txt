@@ -1,0 +1,421 @@
+; English <en> to Russian <ru> localization document for `Home` naninovel script
+
+# ~7e34f91d
+; Did you get it?
+
+
+# ~66129e7b
+; Erm, no.
+
+
+# ~efd2cac
+; Then why are you still here? Go, now! Hush.
+
+
+# ~bd77b470
+; I just wanted-
+
+
+# ~ff1e1b5d
+; GO!
+
+
+# ~241c094f
+; I got home, finally. Yog is still here, mumbling something.
+
+
+# ~76661b81
+; <size=60%>Crap. What was her atomic structure again? He's going to be mad...
+
+
+# ~e647335d
+; Hey, Yog. I got what you wanted.
+
+
+# ~a23b9839
+; Oh! 
+
+
+# ~ad3e566e
+; !
+
+
+# ~f5c5033f
+; I see Emily materializing in the other side of the room.
+
+
+# ~6e7cbdf5
+; Huh? What happened?
+
+
+# ~b799e80
+; Yog looks at Emily with her vertical eyes. Or whatever that is.
+
+
+# ~bd3a7664
+; Good.
+
+
+# ~c6479416
+; Wow. What is that you have in your hands. It looks cool. And what is that cloud of bubbles? It can talk...
+
+
+# ~3d70ffcd
+; Wait, you can see her too?
+
+
+# ~b968561c
+; What do you mean?
+
+
+# ~c5fdc92a
+; I don't remember Emily installing that AI-VR implant. Does that mean...?
+
+
+# ~50969db8
+; ! Give that thing to me.
+
+
+# ~b70657fd
+; Hey, hold on a moment. I really like it.
+
+
+# ~2a135348
+; Yog is getting nervous. She looked at Emily again, and despite her not having eyebrows, I can see her frowning.
+
+
+# ~e8a3540b
+; It's not something you should play with. You need to give it to me immediately, 
+
+
+# ~1d2eed84
+; .
+
+
+# ~f08fc628
+; Oh? I won't lose to a fart cloud in an attention-seeking competition.
+
+
+# ~f3a29eb6
+; <size=130%>What did you call me just now?
+
+
+# ~4ef12fcc
+; Hey-hey-hey, enough! What I understand is that either you are both not real or both real. That is the single explanation here.
+
+
+# ~615a4c53
+; That guy doesn't even follow us.
+
+
+# ~520f206b
+; Hey, I have that item, so I will decide who is going to have it. How about that? I kinda like it too.
+
+
+# ~3feeb355
+; ... you do remember that I have a birthday in a few days? I would really like that black thing you have in your hands.
+
+
+# ~9c0a2b9c
+; You don't know what you are playing with.
+
+
+# ~11359503
+; You saw the bar. Didn't that tell you anything? Didn't that at least give you the slightest idea what you are dealing with here?
+
+
+# ~fc0c8479
+; If you don't give the Fabric of Reality to me, I'll swap your tiny little star for a black hole!
+
+
+# ~7702f4cb
+; Fabric of Reality... so that is its name.
+
+
+# ~606364a
+; Give it to Yog.
+
+
+# ~2ccd399a
+; Give it to Emily.
+
+
+# ~490c4680
+; Keep it for yourself.
+
+
+# ~d6c65068
+; I knew you'd make the right choice. Good boy.
+
+
+# ~da8719a8
+; How could you? It's so shiny.
+
+
+# ~f1cf2f66
+; It is literally not.
+
+
+# ~87ac81fc
+; Shut up! It's not only about that thing.
+
+
+# ~39c8fee5
+; Emily looked at me.
+
+
+# ~e9275910
+; You're always like that. You never thought of other people or cared what others think. You only do what you think is logical.
+
+
+# ~a5e9210f
+; You hide in your cave day after day. Sometimes I don't even know if you're alive or not because you are so scared of attention that you're invisible on every social media.
+
+
+# ~15ae316
+; I just wanted a small token of attention and appreciation. When was the last time you gave anything to anyone?
+
+
+# ~15391ae
+; When will you learn that there are people who still want you around? Why did you install that thing in your head?
+
+
+# ~2cf40cd7
+; Emily stormed off.
+
+
+# ~7db6f932
+; ...
+
+
+# ~478830a
+; That made me really sad. I don't know why. I thought I didn't care.
+
+
+# ~40f00cc
+; You made the right choice, darling.
+
+
+# ~ff22a6cc
+; Now you call me darling again.
+
+
+# ~bed82c4a
+; I was with you all that time. And she only needs you when she's bored or feeling alone.
+
+
+# ~a2b62cc0
+; Don't say it like that.
+
+
+# ~18dfe2e6
+; I promised you something.
+
+
+# ~400b7c3b
+; I swallowed.
+
+
+# ~dd0fa963
+; Huh?
+
+
+# ~b18fa237
+; Don't you remember, darling?
+
+
+# ~bfd0b327
+; Erm- It's okay, I don't really... wait, what did you want to show me?
+
+
+# ~f11fbc19
+; <size=150%>Everything.
+
+
+# ~f5583f2d
+; Yaay!
+
+
+# ~a9d7e814
+; I cannot believe that I, Yog-Sothoth, was refused. The insolence of this mortal. A grain of sand that tries to defy something it can't comprehend.
+
+
+# ~309e7668
+; To think that I enjoyed talking to an ape who can't comprehend simple space-time safety.
+
+
+# ~57a1fa1f
+; Hey, don't be grumpy, I know him from the childhood. Of course 
+
+
+# ~1f28a150
+;  would choose me.
+
+
+# ~368e79f9
+; Yog got really angry. Now, that I know she's not something made up, I don't know if her threats were real or not.
+
+
+# ~cddfdf7f
+; Enjoy your last Winter.
+
+
+# ~4eb3ee09
+; Yog stormed off.
+
+
+# ~3e59c62f
+; Will I miss her? She was interesting, at least.
+
+
+# ~84912d3a
+; Sorry about making your friend grumpy. Thank you for that fabric. It's so weird.
+
+
+# ~bc40c8cc
+; I have a feeling that we should be careful with it.
+
+
+# ~721ceb80
+; You know... it was fun. I really wanted to see you. I'd really like to see you more.
+
+
+# ~fb719739
+; I know that you'd refuse the invitation to my birthday. But... what if it will be just me and you?
+
+
+# ~9f009021
+; Huh?...
+
+
+# ~286ad87a
+; You got hu-uge social anxiety, right? It's so common now. But I want you to feel comfortable.
+
+
+# ~daefb5f5
+; At the expense of your birthday?
+
+
+# ~b3d47dda
+; That will be worth it.
+
+
+# ~5fb97215
+; She has a bad taste.
+
+
+# ~67e40906
+; I don't want to ruin your birthday for that, I'm sorry.
+
+
+# ~b81c8d0d
+; I'll show you my boobs.
+
+
+# ~3a55637b
+; So, what time should I pick you up tomorrow?
+
+
+# ~71b34ac0
+; What?
+
+
+# ~8f6acfc5
+; I am baffled.
+
+
+# ~11516e55
+; What do you even need it for?
+
+
+# ~9bff40ab
+; I don't know. It just looks cool, like you said. But it's not about the fabric of reality. It's about both of you trying to manipulate me.
+
+
+# ~f3afd71f
+; Did you notice how you two already had eyes on this thing, like it's already yours?
+
+
+# ~87d56bb2
+; The question wasn't about me at all.
+
+
+# ~fbd1faee
+; I'm just reminding you that there are three people in this room, not just two of you.
+
+
+# ~8be5868d
+; Behold, years of stoicism game me the power of refusing thots... and eldrich gods.
+
+
+# ~cf9cf244
+; He is completely gone.
+
+
+# ~a4e9a6ab
+; Yeah...
+
+
+# ~fcc57fc6
+; At least you didn't give the Fabric to that friend of yours. I'll stay here. Eventually you'll just give it to me.
+
+
+# ~d166dd78
+; Hey!
+
+
+# ~e7c03e49
+; Why do you think so?
+
+
+# ~3d52484
+; You have nothing going on in your life but work and scrolling screens. You don't need the Fabric. Eventually it will just collect enough dust that you'd want to get rid of it. And I'm not going anywhere.
+
+
+# ~d41fbe06
+; Also, you are confusing stoicism with apathy.
+
+
+# ~3fea08aa
+; Huh. Well, okay, 
+
+
+# ~d3ac784d
+; . I guess you haven't changed. You know where to find me. Come drink beer with me sometimes.
+
+
+# ~8d618dcd
+; Oh, the bar! <size=60%> The people in the bar!
+
+
+# ~82ce1ea4
+; I don't really know.
+
+
+# ~1331e0b
+; Bye. And yeah, come see me on my birthday, if you're not afraid of ~~seeing people~~.
+
+
+# ~23a2cf35
+; I shuddered.
+
+
+# ~ba66cf13
+; Well. I guess nothing changed. That's what I like about my life. It's comfortable and secure in it's stillness. I won't go to the birthday party - I never liked parties.
+
+
+# ~85bc1067
+; They are annoying, small talk is killing me.
+
+
+# ~b4669a7d
+; And I am almost scared for some reason.
+
+
+# ~cca56f68
+; I touched the fabric of reality, making it wobble and move. Hehe, it's a fun toy.
+
+
+# ~ceadcf02
+; Time to take a nap.
+

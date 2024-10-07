@@ -56,6 +56,8 @@ Yog: You saw the bar. Didn't that tell you anything? Didn't that at least give y
 Yog: If you don't give the Fabric of Reality to me, I'll swap your tiny little star for a black hole!
 
 Fabric of Reality... so that is its name.
+@toast "Quest Updated." 
+@updatequest QuestStage:5
 
 @choice "Give it to Yog." goto:.YogItem
 @choice "Give it to Emily." goto:.EmilyItem
