@@ -12,7 +12,6 @@ namespace CardsMemoryGame.Scripts
 
         public override async UniTask ExecuteAsync(AsyncToken asyncToken = default)
         {
-            // 3. Load and play specified script (is required).
             if (Assigned(ScriptName))
             {
                 IScriptPlayer scriptPlayer = Engine.GetService<IScriptPlayer>();
@@ -26,7 +25,6 @@ namespace CardsMemoryGame.Scripts
                 await scriptPlayer.PreloadAndPlayAsync(ScriptName);
             }
 
-            // 4. Enable Naninovel input.
             IInputManager inputManager = Engine.GetService<IInputManager>();
             inputManager.ProcessInput = true;
         }

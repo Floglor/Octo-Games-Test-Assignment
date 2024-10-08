@@ -1,0 +1,80 @@
+#,;;,en,ru
+CGGallery.Title,,CG GALLERY,ГАЛЛЕРЕЯ
+Confirmation.No,,NO,НЕТ
+Confirmation.Yes,,YES,ДА
+ControlPanel.Auto,,AUTO,АВТО
+ControlPanel.Continue,,CONT.,ПРОД.
+ControlPanel.Hide,,HIDE,СПРЯТАТЬ
+ControlPanel.Load,,LOAD,ЗАГР
+ControlPanel.Log,,LOG,ЛОГ
+ControlPanel.Menu,,MENU,МЕНЮ
+ControlPanel.QuickLoad,,Q.LOAD,Б.ЗАГР
+ControlPanel.QuickSave,,Q.SAVE,Б.СОХР
+ControlPanel.Rollback,,BACK,НАЗАД
+ControlPanel.Save,,SAVE,СОХР
+ControlPanel.Settings,,SETTINGS,НАСТРОЙКИ
+ControlPanel.Skip,,SKIP,ПРОПУСТИТЬ
+ControlPanel.Tips,,TIPS,ПОДСКАЗКИ
+ControlPanel.Title,,TITLE,ГЛАВНОЕ МЕНЮ
+ExternalScriptsBrowser.Info,,Select a script to play,Выберите скрипт 
+ExternalScriptsBrowser.Title,,EXTERNAL SCRIPTS,ВНЕШНИЕ СКРИПТЫ
+General.Close,,CLOSE,ЗАКРЫТЬ
+General.Delete,,DELETE,УДАЛИТЬ
+General.Navigate,,NAV.,НАВ.
+General.Page,,PAGE,СТРАНИЦА
+General.Return,,RETURN,ВОЗВРАТ
+General.Scroll,,SCROLL,ПРОКРУТКА
+General.Select,,SELECT,ВЫБОР
+General.Tab,,TAB,ТАБ
+General.View,,VIEW,ПРОСМОТР
+Naninovel.UI.ControlPanelTitleButton.ConfirmationMessage,,Are you sure you want to quit to the title screen?<br>Any unsaved game progress will be lost.,Вы уверены что хотите выйти на главный экран?<br>Несохраненный прогресс будет потерян
+Naninovel.UI.GameSettingsFontDropdown.DefaultFontName,,Default,Стандартный
+Naninovel.UI.GameSettingsFontSizeDropdown.Default,,Default,Стандартный
+Naninovel.UI.GameSettingsFontSizeDropdown.ExtraLarge,,Extra Large,Очень большой
+Naninovel.UI.GameSettingsFontSizeDropdown.Large,,Large,Большой
+Naninovel.UI.GameSettingsFontSizeDropdown.Small,,Small,Маленький
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption1,,Very Low,Очень низкие
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption2,,Low,Низкие
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption3,,Medium,Средние
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption4,,High,Высокие
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption5,,Very High,Очень высокие
+Naninovel.UI.GameSettingsGraphicsDropdown.GraphicOption6,,Ultra,Ульра
+Naninovel.UI.GameSettingsScreenModeDropdown.ExclusiveFullScreen,,Full Screen,Полный экран
+Naninovel.UI.GameSettingsScreenModeDropdown.FullScreenWindow,,Full Screen Window,Полный экран (Окно)
+Naninovel.UI.GameSettingsScreenModeDropdown.MaximizedWindow,,Maximized Window,Максимизированное окно
+Naninovel.UI.GameSettingsScreenModeDropdown.Windowed,,Windowed,Окно
+Naninovel.UI.GameSettingsSkipModeDropdown.Everything,,Everything,Всё
+Naninovel.UI.GameSettingsSkipModeDropdown.ReadOnly,,Read Only,Только чтение
+Naninovel.UI.GameStateSlot.EmptySlotLabel,,Empty,Пусто
+Naninovel.UI.SaveLoadMenu.DeleteSaveSlotMessage,,Are you sure you want to delete save slot?,Вы уверены что хотите удалить слот сохранения?
+Naninovel.UI.SaveLoadMenu.OverwriteSaveSlotMessage,,Are you sure you want to overwrite save slot?,Вы уверены что хотите удалить перезаписать слот?
+SaveLoadMenu.Tab.Load,,LOAD,ЗАГР
+SaveLoadMenu.Tab.QuickLoad,,Q. LOAD,Б. ЗАГР
+SaveLoadMenu.Tab.Save,,SAVE,СОХР
+SettingsMenu.AutoDelay,,Auto delay,Авто задержка
+SettingsMenu.Font,,Font,Шрифт
+SettingsMenu.FontSize,,Font size,Размер шрифта
+SettingsMenu.Graphics,,Graphics,Графика
+SettingsMenu.Language,,Language,Язык
+SettingsMenu.MessageSpeed,,Message speed,Скорость сообщений
+SettingsMenu.Preview,,Preview,Превью
+SettingsMenu.PreviewText,,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mollis vitae tellus a pharetra. Aenean vitae ipsum in est lobortis vulputate.","Съешь ещё этих мягких французских булок, да выпей чаю"
+SettingsMenu.Resolution,,Resolution,Разрешение
+SettingsMenu.ScreenMode,,Screen mode,Режим экрана
+SettingsMenu.SkipMode,,Skip mode,Режим пропуска
+SettingsMenu.Tab.Basic,,BASIC,ОБЩИЕ
+SettingsMenu.Tab.Sound,,SOUND,ЗВУК
+SettingsMenu.Tab.Text,,TEXT,ТЕКСТ
+SettingsMenu.VoiceLanguage,,Voice language,Язык озвучки
+SettingsMenu.VolumeEffects,,Effects volume,Громкость эффектов
+SettingsMenu.VolumeMaster,,Master volume,Общая громкость
+SettingsMenu.VolumeMusic,,Music volume,Громкость музыки
+SettingsMenu.VolumeVoice,,Voice volume,Громкость голоса
+TitleMenu.CGGallery,,CG GALLERY,ГАЛЛЕРЕЯ
+TitleMenu.Continue,,CONTINUE,ПРОДОЛЖИТЬ
+TitleMenu.Exit,,EXIT,ВЫХОД
+TitleMenu.ExternalScripts,,EXTERNAL SCRIPTS,ВНЕШНИЕ СКРИПТЫ
+TitleMenu.NewGame,,NEW GAME,НОВАЯ ИГРА
+TitleMenu.Settings,,SETTINGS,НАСТРОЙКИ
+TitleMenu.Tips,,TIPS,ПОДСКАЗКИ
+VariableInput.Submit,,SUBMIT,ПРИНЯТЬ

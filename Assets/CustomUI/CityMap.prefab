@@ -560,7 +560,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2059234490574842147}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6
@@ -576,7 +576,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2059234490574842147}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6
@@ -781,7 +781,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 262604545061475031}
-  - component: {fileID: 2059234490574842147}
   m_Layer: 0
   m_Name: Tooltip
   m_TagString: Untagged
@@ -809,26 +808,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2059234490574842147
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3534658391405475388}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5975c9748a52c8d43b34c8d7c428cacd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scriptName: 
-  scriptText: '@print "This is a bar called \"The bottom\". My childhood friend Emily
-    works there." author:MC if:{arg} printer:Wide speed:2
-
-    @hidePrinter Wide
-    if:!{arg}'
-  playOnAwake: 0
-  disableWaitInput: 0
 --- !u!1 &4956033432496430890
 GameObject:
   m_ObjectHideFlags: 0
@@ -838,7 +817,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6824341725185775950}
-  - component: {fileID: 2115369614165852282}
   m_Layer: 0
   m_Name: Tooltip
   m_TagString: Untagged
@@ -866,25 +844,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2115369614165852282
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4956033432496430890}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5975c9748a52c8d43b34c8d7c428cacd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scriptName: 
-  scriptText: '@print "I don''t remember a hole in reality being here before..."
-    author:MC if:{arg} printer:Wide speed:2
-
-    @hidePrinter Wide if:!{arg}'
-  playOnAwake: 0
-  disableWaitInput: 0
 --- !u!1 &6442267088227917692
 GameObject:
   m_ObjectHideFlags: 0
@@ -1054,7 +1013,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 7240959854530777362}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6
@@ -1070,7 +1029,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 7240959854530777362}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6
@@ -1091,7 +1050,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2730911405528441515}
-  - component: {fileID: 7240959854530777362}
   m_Layer: 0
   m_Name: Tooltip
   m_TagString: Untagged
@@ -1119,25 +1077,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &7240959854530777362
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8188337685536993851}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5975c9748a52c8d43b34c8d7c428cacd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scriptName: 
-  scriptText: '@print "That''s my gooncave." author:MC if:{arg} printer:Wide speed:2
-
-    @hidePrinter
-    Wide if:!{arg}'
-  playOnAwake: 0
-  disableWaitInput: 0
 --- !u!1 &8386558339538804097
 GameObject:
   m_ObjectHideFlags: 0
@@ -1307,7 +1246,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2115369614165852282}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6
@@ -1323,7 +1262,7 @@ MonoBehaviour:
     callback:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 2115369614165852282}
+        - m_Target: {fileID: 0}
           m_TargetAssemblyTypeName: Naninovel.PlayScript, Elringus.Naninovel.Runtime
           m_MethodName: Play
           m_Mode: 6

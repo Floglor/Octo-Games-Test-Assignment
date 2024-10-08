@@ -1,7 +1,4 @@
 ; English <en> to Russian <ru> localization document for `Script` managed text document
 
 ; Player
-T_PredefinedName: 
-
-; Item 2 Value
-Item2Path: 
+T_PredefinedName: Игрок

@@ -136,7 +136,7 @@ el:
 el-GR: 
 
 ; English
-en: 
+en: Английский
 
 ; English (Australia)
 en-AU: 
@@ -523,7 +523,7 @@ ro:
 ro-RO: 
 
 ; Russian
-ru: 
+ru: Русский
 
 ; Russian (Russia)
 ru-RU: 

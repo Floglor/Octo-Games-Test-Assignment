@@ -2,420 +2,424 @@
 
 # ~7e34f91d
 ; Did you get it?
-
+Ты достал это?
 
 # ~66129e7b
 ; Erm, no.
-
+Эм, нет.
 
 # ~efd2cac
 ; Then why are you still here? Go, now! Hush.
-
+Тогда зачем ты все еще здесь? Давай беги, сейчас же! Пшёл.
 
 # ~bd77b470
 ; I just wanted-
-
+Я просто хотел-
 
 # ~ff1e1b5d
 ; GO!
-
+Иди!
 
 # ~241c094f
 ; I got home, finally. Yog is still here, mumbling something.
-
+Наконец-то я добрался домой. Йог все еще здесь, она бормочет что-то.
 
 # ~76661b81
 ; <size=60%>Crap. What was her atomic structure again? He's going to be mad...
-
+Черт. Какая у нее была атомная структура? Он рассердится...
 
 # ~e647335d
 ; Hey, Yog. I got what you wanted.
-
+Эй, Йог. У меня то, что ты хотел.
 
 # ~a23b9839
 ; Oh! 
-
+О!
 
 # ~ad3e566e
 ; !
-
+!
 
 # ~f5c5033f
 ; I see Emily materializing in the other side of the room.
-
+Я вижу, как Эмили материализуется на другой стороне комнаты.
 
 # ~6e7cbdf5
 ; Huh? What happened?
-
+А? Что произошло?
 
 # ~b799e80
 ; Yog looks at Emily with her vertical eyes. Or whatever that is.
-
+Йог смотрит на Эмили своими вертикальными глазами. Или что это вообще...
 
 # ~bd3a7664
 ; Good.
-
+Отлично.
 
 # ~c6479416
 ; Wow. What is that you have in your hands. It looks cool. And what is that cloud of bubbles? It can talk...
-
+Вау. Что это у тебя в руках? Выглядит круто. А что это за облако из пузырей? Оно умеет говорить...
 
 # ~3d70ffcd
 ; Wait, you can see her too?
-
+Погоди, ты тоже ее видишь?
 
 # ~b968561c
 ; What do you mean?
-
+Что ты имеешь в виду?
 
 # ~c5fdc92a
 ; I don't remember Emily installing that AI-VR implant. Does that mean...?
-
+Не помню, чтобы Эмили устанавливала этот имплант AI-VR. Это значит...?
 
 # ~50969db8
 ; ! Give that thing to me.
-
+! Отдай это.
 
 # ~b70657fd
 ; Hey, hold on a moment. I really like it.
-
+Эй, подожди минутку. Мне эта штука нравится.
 
 # ~2a135348
 ; Yog is getting nervous. She looked at Emily again, and despite her not having eyebrows, I can see her frowning.
-
+Йог начинает нервничать. Она снова взглянула на Эмили, и несмотря на отсутствие у нее бровей, я вижу, как она хмурится.
 
 # ~e8a3540b
 ; It's not something you should play with. You need to give it to me immediately, 
-
+Это не то, с чем стоит играть. Тебе нужно отдать это мне немедленно.
 
 # ~1d2eed84
 ; .
-
+.
 
 # ~f08fc628
 ; Oh? I won't lose to a fart cloud in an attention-seeking competition.
-
+О? Я не проиграю облаку пердежа в соревнованию по привлечению внимания.
 
 # ~f3a29eb6
 ; <size=130%>What did you call me just now?
-
+<size=130%>Чем это ты только что меня назвала?
 
 # ~4ef12fcc
 ; Hey-hey-hey, enough! What I understand is that either you are both not real or both real. That is the single explanation here.
-
+Эй-эй-эй, хватит! Что я понимаю, так это то, что либо вы оба не настоящие, либо оба реальные. Это единственное объяснение.
 
 # ~615a4c53
 ; That guy doesn't even follow us.
-
+Он вообще не слушает нас.
 
 # ~520f206b
 ; Hey, I have that item, so I will decide who is going to have it. How about that? I kinda like it too.
-
+Эй, у меня есть эта штука, так что я решу, кто это получит. М? Мне она тоже нравится.
 
 # ~3feeb355
 ; ... you do remember that I have a birthday in a few days? I would really like that black thing you have in your hands.
-
+... ты помнишь, что у меня день рождения через несколько дней? Мне бы очень хотелось, чтобы эта черная штучка у тебя в руках.
 
 # ~9c0a2b9c
 ; You don't know what you are playing with.
-
+Вы не знаете, с чем имеете играетесь.
 
 # ~11359503
 ; You saw the bar. Didn't that tell you anything? Didn't that at least give you the slightest idea what you are dealing with here?
-
+Ты видел бар. Разве это не дало вам ни малейшего представления о том, с чем ты столкнулся?
 
 # ~fc0c8479
 ; If you don't give the Fabric of Reality to me, I'll swap your tiny little star for a black hole!
-
+Если ты не отдашь мне Ткань Реальности, я заменю твою крошечную звезду на черную дыру!
 
 # ~7702f4cb
 ; Fabric of Reality... so that is its name.
+Ткань Реальности... так вот как она называется.
 
+# ~4c2fb53b
+; Quest Updated.
+Задание обновлено.
 
 # ~606364a
 ; Give it to Yog.
-
+Дать это Йог.
 
 # ~2ccd399a
 ; Give it to Emily.
-
+Дать это Эмили.
 
 # ~490c4680
 ; Keep it for yourself.
-
+Оставить себе.
 
 # ~d6c65068
 ; I knew you'd make the right choice. Good boy.
-
+Я знала, что ты сделаешь правильный выбор. Хороший мальчик.
 
 # ~da8719a8
 ; How could you? It's so shiny.
-
+Как ты мог? Она такая блестящая.
 
 # ~f1cf2f66
 ; It is literally not.
-
+Вот буквально же нет.
 
 # ~87ac81fc
 ; Shut up! It's not only about that thing.
-
+Заткнись! Дело не только в этой штуке.
 
 # ~39c8fee5
 ; Emily looked at me.
-
+Эмили посмотрела на меня.
 
 # ~e9275910
 ; You're always like that. You never thought of other people or cared what others think. You only do what you think is logical.
-
+Ты всегда такой. Ты никогда не думал о других людях или не заботился о том, что думают другие. Ты делаешь только то, что считаешь логичным.
 
 # ~a5e9210f
 ; You hide in your cave day after day. Sometimes I don't even know if you're alive or not because you are so scared of attention that you're invisible on every social media.
-
+Ты прячешься в своей пещере день за днем. Иногда я даже не знаю, жив ты или нет, потому что ты боишься внимания, и ты невидим в каждом соц. медиа.
 
 # ~15ae316
 ; I just wanted a small token of attention and appreciation. When was the last time you gave anything to anyone?
-
+Я просто хотела маленькую частичку внимания и признательности. Когда ты в последний раз что-то кому-то дарил?
 
 # ~15391ae
 ; When will you learn that there are people who still want you around? Why did you install that thing in your head?
-
+Когда ты поймешь, что есть люди, которые все еще хотят, чтобы ты был рядом? Почему ты имплантировал эту штуку в свою голову?
 
 # ~2cf40cd7
 ; Emily stormed off.
-
+Эмили ушла.
 
 # ~7db6f932
 ; ...
-
+...
 
 # ~478830a
 ; That made me really sad. I don't know why. I thought I didn't care.
-
+Это меня очень огорчило. Я не знаю почему. Я думал, что мне все равно.
 
 # ~40f00cc
 ; You made the right choice, darling.
-
+Ты сделал правильный выбор, дорогой.
 
 # ~ff22a6cc
 ; Now you call me darling again.
-
+Теперь ты опять называешь меня дорогим.
 
 # ~bed82c4a
 ; I was with you all that time. And she only needs you when she's bored or feeling alone.
-
+Я была с тобой все это время. А она нуждается в тебе только тогда, когда ей скучно или она одна.
 
 # ~a2b62cc0
 ; Don't say it like that.
-
+Не говори так.
 
 # ~18dfe2e6
 ; I promised you something.
-
+Я кое-что обещала.
 
 # ~400b7c3b
 ; I swallowed.
-
+Я сглотнул.
 
 # ~dd0fa963
 ; Huh?
-
+А?
 
 # ~b18fa237
 ; Don't you remember, darling?
-
+Ты не помнишь, дорогой?
 
 # ~bfd0b327
 ; Erm- It's okay, I don't really... wait, what did you want to show me?
-
+Эм- Это нормально, я на самом деле не... стой, что ты хотела показать мне?
 
 # ~f11fbc19
 ; <size=150%>Everything.
-
+<size=150%>Всё.
 
 # ~f5583f2d
 ; Yaay!
-
+Ура!
 
 # ~a9d7e814
 ; I cannot believe that I, Yog-Sothoth, was refused. The insolence of this mortal. A grain of sand that tries to defy something it can't comprehend.
-
+Я не могу поверить, что меня, Йог-Сотота, отшили. Нахальство этого смертного. Песчинка, которая пытается бросить вызов тому, что она не может понять.
 
 # ~309e7668
 ; To think that I enjoyed talking to an ape who can't comprehend simple space-time safety.
-
+Подумать только, что мне нравилось разговаривать с обезьяной, которая не может понять простую безопасность пространства-времени.
 
 # ~57a1fa1f
 ; Hey, don't be grumpy, I know him from the childhood. Of course 
-
+Эй, не будь таким мрачным, я знаю его с детства. Конечно, 
 
 # ~1f28a150
 ;  would choose me.
-
+выберет меня
 
 # ~368e79f9
 ; Yog got really angry. Now, that I know she's not something made up, I don't know if her threats were real or not.
-
+Йог действительно разозлилась. Теперь, когда я знаю, что она не вымышленная, я не знаю, были ли ее угрозы реальными.
 
 # ~cddfdf7f
 ; Enjoy your last Winter.
-
+Наслаждайся последней зимой.
 
 # ~4eb3ee09
 ; Yog stormed off.
-
+Йог ушла.
 
 # ~3e59c62f
 ; Will I miss her? She was interesting, at least.
-
+Буду ли я скучать по ней? Она была, по крайней мере, интересной.
 
 # ~84912d3a
 ; Sorry about making your friend grumpy. Thank you for that fabric. It's so weird.
-
+Прости, что разозлила твою подружку. Спасибо за эту ткань. Она такая странная.
 
 # ~bc40c8cc
 ; I have a feeling that we should be careful with it.
-
+У меня есть чувство, что нам стоит быть осторожными с ней.
 
 # ~721ceb80
 ; You know... it was fun. I really wanted to see you. I'd really like to see you more.
-
+Ты знаешь... это было весело. Я действительно хотела увидеть тебя. Мне бы хотелось видеться больше.
 
 # ~fb719739
 ; I know that you'd refuse the invitation to my birthday. But... what if it will be just me and you?
-
+Я знаю, что ты не прийдешь на мой день рождения. Но... а что если это будем только я и ты?
 
 # ~9f009021
 ; Huh?...
-
+А?
 
 # ~286ad87a
 ; You got hu-uge social anxiety, right? It's so common now. But I want you to feel comfortable.
-
+У тебя о-огромная cоциофобия, верно? Это так распространено сейчас. Но я хочу, чтобы ты чувствовал себя комфортно.
 
 # ~daefb5f5
 ; At the expense of your birthday?
-
+В ущерб твоему дню рождения?
 
 # ~b3d47dda
 ; That will be worth it.
-
+Это будет стоить того.
 
 # ~5fb97215
 ; She has a bad taste.
-
+У нее плохой вкус.
 
 # ~67e40906
 ; I don't want to ruin your birthday for that, I'm sorry.
-
+Я не хочу испортить твой день рождения из-за этого, прости.
 
 # ~b81c8d0d
 ; I'll show you my boobs.
-
+Я покажу сиськи.
 
 # ~3a55637b
 ; So, what time should I pick you up tomorrow?
-
+Так, во сколько мне тебя завтра забрать?
 
 # ~71b34ac0
 ; What?
-
+Что?
 
 # ~8f6acfc5
 ; I am baffled.
-
+Я в шоке.
 
 # ~11516e55
 ; What do you even need it for?
-
+Зачем тебе это вообще нужно?
 
 # ~9bff40ab
 ; I don't know. It just looks cool, like you said. But it's not about the fabric of reality. It's about both of you trying to manipulate me.
-
+Я не знаю. Это просто выглядит круто, как ты сказала. Но дело не в ткани реальности. Дело в том, что вы оба пытались манипулировать мной.
 
 # ~f3afd71f
 ; Did you notice how you two already had eyes on this thing, like it's already yours?
-
+Вы заметили, как вы двое уже смотрели на эту штуку, как будто она уже ваша?
 
 # ~87d56bb2
 ; The question wasn't about me at all.
-
+Вопрос не касался меня вообще.
 
 # ~fbd1faee
 ; I'm just reminding you that there are three people in this room, not just two of you.
-
+Я просто напоминаю вам, что в этой комнате три человека, а не только двое из вас.
 
 # ~8be5868d
 ; Behold, years of stoicism game me the power of refusing thots... and eldrich gods.
-
+Вот, годы стоицизма дали мне силу отказывать легкомысленным девочкам... и древним богам.
 
 # ~cf9cf244
 ; He is completely gone.
-
+Он поехал.
 
 # ~a4e9a6ab
 ; Yeah...
-
+Да...
 
 # ~fcc57fc6
 ; At least you didn't give the Fabric to that friend of yours. I'll stay here. Eventually you'll just give it to me.
-
+По крайней мере, ты не отдал Ткань этой твоей подружке. Я останусь здесь. Со временем ты просто отдашь это мне.
 
 # ~d166dd78
 ; Hey!
-
+Эй!
 
 # ~e7c03e49
 ; Why do you think so?
-
+Почему ты так думаешь?
 
 # ~3d52484
 ; You have nothing going on in your life but work and scrolling screens. You don't need the Fabric. Eventually it will just collect enough dust that you'd want to get rid of it. And I'm not going anywhere.
-
+У тебя ничего не происходит в жизни, кроме работы и скроллинга. Тебе не нужна ткань. Со временем она просто накопит достаточно пыли, что ты захочешь от нее избавиться. И я никуда не уйду.
 
 # ~d41fbe06
 ; Also, you are confusing stoicism with apathy.
-
+Также, ты путаешь стоицизм с апатией.
 
 # ~3fea08aa
 ; Huh. Well, okay, 
-
+Ага. Ну, ладно,
 
 # ~d3ac784d
 ; . I guess you haven't changed. You know where to find me. Come drink beer with me sometimes.
-
+. Полагаю, ты не изменился. Ты знаешь, где меня найти. Приходи выпить пива иногда.
 
 # ~8d618dcd
 ; Oh, the bar! <size=60%> The people in the bar!
-
+О, бар! <size=60%>Люди в баре!
 
 # ~82ce1ea4
 ; I don't really know.
-
+Я реально не знаю.
 
 # ~1331e0b
 ; Bye. And yeah, come see me on my birthday, if you're not afraid of ~~seeing people~~.
-
+Пока. И да, приходи ко мне на день рождения, если не боишься ~видеть людей~.
 
 # ~23a2cf35
 ; I shuddered.
-
+Я содрогнулся.
 
 # ~ba66cf13
 ; Well. I guess nothing changed. That's what I like about my life. It's comfortable and secure in it's stillness. I won't go to the birthday party - I never liked parties.
-
+Ну что ж. Полагаю, ничего не изменилось. Это то, что мне нравится в моей жизни. Комфорт и безопасность в своей неподвижности. Я не пойду на вечеринку по случаю дня рождения - я никогда не любил вечеринки.
 
 # ~85bc1067
 ; They are annoying, small talk is killing me.
-
+Они раздражают, светские беседы убивают меня.
 
 # ~b4669a7d
 ; And I am almost scared for some reason.
-
+И я почти боюсь почему-то.
 
 # ~cca56f68
 ; I touched the fabric of reality, making it wobble and move. Hehe, it's a fun toy.
-
+Я коснулся ткани реальности, заставляя ее колебаться и двигаться. Хе-хе, это забавная игрушка.
 
 # ~ceadcf02
 ; Time to take a nap.
-
+Время вздремнуть.

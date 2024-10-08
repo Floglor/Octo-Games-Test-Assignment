@@ -10,9 +10,14 @@ public class Log : MonoBehaviour
     public int ProgressStep;
     public Toggle TextToggle;
 
-    public void ToggleCheckBox()
+    public void ToggleCheckBoxOn()
     {
         _checkBox.isOn = true;
+    }
+    
+    public void ToggleCheckBoxOff()
+    {
+        _checkBox.isOn = false;
     }
     public void DisableImage()
     {

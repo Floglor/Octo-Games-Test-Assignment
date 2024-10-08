@@ -1,0 +1,2 @@
+﻿#,;;,en,en,ru
+MC,,{ nameSet ? name : T_PredefinedName },,

@@ -7,7 +7,7 @@ namespace CardsMemoryGame.Scripts
 {
     public class RotatingCard : MonoBehaviour
     {
-        private const float TURN_RATE_WAIT_TIME = 0.0025f;
+        private const float TURN_RATE_WAIT_TIME = 0.000008f;
         private static readonly Vector3 rotationVector = new Vector3(0, 1, 0);
 
         [SerializeField] private Sprite _cardSprite;
@@ -60,7 +60,6 @@ namespace CardsMemoryGame.Scripts
 
                 if (i == 179)
                 {
-                
                     if (!IsCardBackToggled)
                         OnFlipOver?.Invoke(this);
                 }
@@ -86,6 +85,7 @@ namespace CardsMemoryGame.Scripts
 
             _cardImage.sprite = cardBackSprite;
         }
+
         public void SolveCard()
         {
             GetComponent<Button>().interactable = false;

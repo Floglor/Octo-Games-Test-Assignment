@@ -1,0 +1,31 @@
+; English <en> to Russian <ru> localization document for `UIText` managed text document
+
+; Go to "The Bottom"
+Q1: Нужно пойти в "Низину".
+
+; Yog asked you to obtain "the means to obtain the item" that she really needs, and sent you to "The Bottom" - the bar not far from home.
+Q1Desc: Йог попросила тебя достать "средство для получения штуки" которая ей реально нужна, и послала тебя в "Низину" - бар недалеко от дома.
+
+; Win at the game
+Q2: Победить в игре.
+
+; You need to pass a match two game to prove that your brain is not fried.
+Q2Desc: Нужно пройти тест чтобы доказать что твой мозг не прожарен.
+
+; Obtain the item
+Q3: Получить штуку.
+
+; Get "The Item" that Yog wants.
+Q3Desc: Получить "штуку" которая нужна Йог.
+
+; Go back
+Q4: Пойти назад.
+
+; Return to the bar and ask about how you disappeared.
+Q4Desc: Вернуться в бар и спросить как ты пропал.
+
+; Return home
+Q5: Вернуться домой.
+
+; Go back home and choose what to do with the item you found.
+Q5Desc: Вернуться домой и подумать что делать с этой штукой.

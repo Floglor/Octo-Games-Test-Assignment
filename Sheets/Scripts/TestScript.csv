@@ -1,0 +1,6 @@
+﻿#,;;,en,en,ru
+~8398626b,,My name is now pre-defined by `T_PredefinedName` managed text record.,,
+~99826606,,It's localizable; try changing the locale and it will update accordingly.,,
+~ec135ba7,,"Now, we'll make the player input a custom name.",,
+~c8f22b8a,it's retrieved from managed text and is localizable as well.,Choose your name.,,
+~42110609,,My display name is now bound to `name` custom variable.,,

@@ -1,3 +1,4 @@
+
 @char MC
 MC: My head hurts.  
 I worked too much last night. Well, it was already morning when I woke up. I think.
@@ -32,7 +33,8 @@ Yog: What is an NPC?
 MC: Nevermind. You’ve never asked me to do anything before. What do you need?
 
 Yog: There is an item... of great value to me. I want you to get it. It's really, really important.
-@showUI QuestLog
+@updatequest QuestStage:0
+@showUI QuestLog time:0
 
 MC: Wow. What is it?  
 I'm starting to question if I’m really seeing things.

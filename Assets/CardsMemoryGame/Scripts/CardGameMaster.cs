@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using Naninovel;
 using UnityEngine;
 using UnityEngine.UI;
@@ -21,6 +22,9 @@ namespace CardsMemoryGame.Scripts
 
         private bool _flipLocked = false;
 
+        private float _turnTimeWait = 1.5f;
+        private bool _cardFlipWait = false;
+
         private void Update()
         {
             if (_gameStarted)
@@ -40,13 +44,13 @@ namespace CardsMemoryGame.Scripts
             {
                 Value = (int) _elapsedTime
             };
-            
+
             SwitchToNovel switchCommand = new SwitchToNovel
             {
                 PlaybackSpot = default,
                 ScriptName = "GameResult",
                 Mistakes = mistakes,
-                Time = time,
+                Time = time-mistakes*2, //compensating for flip time
             };
             await switchCommand.ExecuteAsync();
         }
@@ -56,16 +60,6 @@ namespace CardsMemoryGame.Scripts
             numberOfCards = cardsNumber;
             InitializePlayingCards();
         }
-
-     //  private async void Start()
-     //  {
-     //      SwitchToMinigame switchCommand = new SwitchToMinigame();
-     //      ICustomVariableManager variableManager = Engine.GetService<ICustomVariableManager>(); 
-     //      variableManager.TryGetVariableValue<int>("MinigameCards", out int intValue);
-     //      numberOfCards = intValue;
-     //      InitializePlayingCards();
-     //      await switchCommand.ExecuteAsync();
-     //  }
 
         private void InitializePlayingCards()
         {
@@ -137,6 +131,7 @@ namespace CardsMemoryGame.Scripts
             if (_firstFlippedCard == null)
             {
                 _firstFlippedCard = card;
+                UnlockAllCards();
             }
             else if (_secondFlippedCard == null)
             {
@@ -146,8 +141,6 @@ namespace CardsMemoryGame.Scripts
 
                 CheckCardsMatch();
             }
-
-            UnlockAllCards();
         }
 
         private void CheckCardsMatch()
@@ -159,16 +152,23 @@ namespace CardsMemoryGame.Scripts
 
                 CheckForWin();
                 UnlockAllCards();
+                _firstFlippedCard = null;
+                _secondFlippedCard = null;
             }
             else
             {
                 _mistakes++;
-                UnlockAllCards();
-                _firstFlippedCard.FlipCard();
-                _secondFlippedCard.FlipCard();
+                StartCoroutine(DelayFlip());
             }
+        }
 
+        private IEnumerator DelayFlip()
+        {
+            yield return new WaitForSeconds(_turnTimeWait);
 
+            UnlockAllCards();
+            _firstFlippedCard.FlipCard();
+            _secondFlippedCard.FlipCard();
             _firstFlippedCard = null;
             _secondFlippedCard = null;
         }
@@ -186,10 +186,6 @@ namespace CardsMemoryGame.Scripts
                 _gameStarted = false;
                 GoBackToNovelAsync();
             }
-            else
-            {
-                //NotYet
-            }
         }
 
         private void LockAllCards()
@@ -200,21 +196,6 @@ namespace CardsMemoryGame.Scripts
         private void UnlockAllCards()
         {
             _flipLocked = false;
-        }
-
-      //  private void OnEnable()
-      //  {
-      //      InitializePlayingCards();
-      //  }
-
-        public int GetMistakes()
-        {
-            return _mistakes;
-        }
-
-        public float GetElapsedTime()
-        {
-            return _elapsedTime;
         }
     }
 }
