@@ -158,7 +158,7 @@
 
 # ~b2ed98cf
 ; Do you need me to explain the rules?
-Тебе нужно, чтобы я объяснил правила?
+Хочешь чтобы я объяснила правила?
 
 # ~3b50c0f2
 ; Yes.
@@ -170,7 +170,7 @@
 
 # ~6235253d
 ; It's a classic old of match two. And by classic I mean very old. You'll have to find pairs of cards, eliminating them. You can only turn two at the time.
-Это классическая старая игра «собери две одинаковые карты». И под классикой я имею в виду очень старую. Тебе нужно найти пары карт, убирая их. Ты можешь открывать только две за раз.
+Это классическая старая игра «собери две одинаковые карты». И под классикой я имею в виду древню игру. Тебе нужно найти пары карт, убирая их. Ты можешь открывать только две за раз.
 
 # ~e2b0be8a
 ; Remember their positions and don't just turn them around randomly. You will be scored for speed and correctness of your choices.
